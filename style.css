@@ -12,26 +12,13 @@ body {
     max-height: 100%;
 }
 
-/* #bg1{
-    background-image: url(1.jpg);
-    background-attachment:scroll; 
-    background-position: center; 
-}
-
-#bg2{
-    background-image: url(2.jpg);
-    background-attachment:scroll; 
-    background-position: center; 
-} */
-
-@font-face {
+/* @font-face {
     font-family: myFirstFont;
     src: url(sansation_light.woff);
     font-weight: bold;
- }
+ } */
 
 header {
-    /* background-image: url(1.jpg); */
     color: #fff;
     padding: 20px;
     width: auto;

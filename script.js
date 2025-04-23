@@ -17,3 +17,4 @@ function updatePhotos(photos) {
         photo.style.transform = `translateX(${(index - currentPhoto) * 100}%)`;
     });
 }
+
